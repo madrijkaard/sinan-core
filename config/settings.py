@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # apps locais
+    'apps.animais_peconhentos',
+    'apps.aids_adulto',
 ]
 
 MIDDLEWARE = [
