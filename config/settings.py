@@ -40,6 +40,13 @@ INSTALLED_APPS = [
     # apps locais
     'apps.animais_peconhentos',
     'apps.aids_adulto',
+    'apps.aids_crianca',
+    'apps.atendimento_antirabico',
+    'apps.botulismo',
+    'apps.colera',
+    'apps.coqueluche',
+    'apps.dengue_chikungunya',
+    'apps.difteria',
 ]
 
 MIDDLEWARE = [
