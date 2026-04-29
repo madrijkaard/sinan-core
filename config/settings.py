@@ -53,6 +53,19 @@ INSTALLED_APPS = [
     'apps.dermatoses_ocupacionais',
     'apps.acidente_trabalho_biologico',
     'apps.ler_dort',
+    'apps.pair',
+    'apps.pneumoconioses',
+    'apps.transtornos_mentais',
+    'apps.epizootias',
+    'apps.esquistossomose',
+    'apps.febre_amarela',
+    'apps.febre_nilo',
+    'apps.febre_maculosa',
+    'apps.febre_tifoide',
+    'apps.gestante_hiv',
+    'apps.hanseniase',
+    'apps.hantavirose',
+    'apps.hepatites_virais',
 ]
 
 MIDDLEWARE = [
