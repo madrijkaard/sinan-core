@@ -47,6 +47,12 @@ INSTALLED_APPS = [
     'apps.coqueluche',
     'apps.dengue_chikungunya',
     'apps.difteria',
+    'apps.doenca_chagas',
+    'apps.acidente_trabalho_grave',
+    'apps.cancer_relacionado_trabalho',
+    'apps.dermatoses_ocupacionais',
+    'apps.acidente_trabalho_biologico',
+    'apps.ler_dort',
 ]
 
 MIDDLEWARE = [
