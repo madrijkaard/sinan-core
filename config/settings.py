@@ -66,6 +66,7 @@ INSTALLED_APPS = [
     'apps.hanseniase',
     'apps.hantavirose',
     'apps.hepatites_virais',
+    'apps.srag',
 ]
 
 MIDDLEWARE = [
